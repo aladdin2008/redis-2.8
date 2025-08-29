@@ -1,0 +1,3 @@
+/Users/dinghongwei/Desktop/DJHC/code/Redis/redis-2.8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dinghongwei/Desktop/DJHC/code/Redis/redis-2.8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dinghongwei/Desktop/DJHC/code/Redis/redis-2.8/cmake-build-debug/CMakeFiles/redis_2_8.dir
